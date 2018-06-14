@@ -1,4 +1,4 @@
-Clasificación de emociones en mensajes de tuits
+<b>Clasificación de emociones en mensajes de tuits</b>
 
 Consiste en proporcionarle como datos de entrada varias y distintas opiniones extraídas de Twitter en forma de texto, donde la red pasará por una etapa de aprendizaje y tras un número elevado de opiniones distintas y de los distintos tipos que se le proporcionen (enojo, diversión, miedo, tristeza); modificará sus valores o pesos en sus conexiones por medio de un algoritmo, así este entrenamiento continuará hasta que la red sea capaz de que al pasarle cualquier opinión, esta la clasifique según lo que por sí sola haya aprendido de los datos que al principio le proporcionamos.
 
